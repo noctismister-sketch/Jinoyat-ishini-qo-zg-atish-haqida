@@ -1,0 +1,9 @@
+{
+  "appId": "uz.huquq.jinoyatishi",
+  "appName": "Jinoyat Ishi",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
